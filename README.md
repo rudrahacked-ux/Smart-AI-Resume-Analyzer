@@ -16,7 +16,7 @@ Developed by <b>Rudra Suhagia</b>
 
 ## 🎓 About This Project
 
-This project was developed as a **Software Development Project (SDP)** during my **6th Semester** at **Dharmsinh Desai University**, pursuing **Bachelor of Computer Engineering (CE)**.
+This project was developed as a **System Design Practices (SDP)** coursework during my **6th Semester** at **Dharmsinh Desai University**, pursuing **Bachelor of Computer Engineering (CE)**.
 
 The goal of this project is to build an intelligent system that:
 
