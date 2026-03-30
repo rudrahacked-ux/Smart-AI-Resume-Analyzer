@@ -8,9 +8,9 @@ Thank you for your interest in contributing to **Smart Resume Analyzer AI**! Thi
 
 <!--![Smart Resume Analyzer AI](https://via.placeholder.com/300x150?text=Smart+Resume+Analyzer+AI)-->
 
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
-[![Made With Python](https://img.shields.io/badge/Made%20With-Python-blue?style=flat-square&logo=python)](https://github.com/Hunterdii/)
-[![Fork and Star](https://img.shields.io/badge/💜-Fork%20&%20Star%20this%20repo-blueviolet?style=flat-square)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/rudrahacked-ux/Smart-AI-Resume-Analyzer)
+[![Made With Python](https://img.shields.io/badge/Made%20With-Python-blue?style=flat-square&logo=python)](https://github.com/rudrahacked-ux/)
+[![Fork and Star](https://img.shields.io/badge/💜-Fork%20&%20Star%20this%20repo-blueviolet?style=flat-square)](https://github.com/rudrahacked-ux/Smart-AI-Resume-Analyzer)
 
 </div>
 
@@ -27,7 +27,7 @@ Click the `Fork` button at the top right corner of this page to create a copy of
 ### 2. **Clone Your Fork**
 
 ```bash
-git clone https://github.com/Hunterdii/Smart-AI-Resume-Analyzer.git
+git clone https://github.com/rudrahacked-ux/Smart-AI-Resume-Analyzer.git
 ```
 
 ### 3. **Navigate to the Directory**
@@ -84,7 +84,7 @@ Updating documentation is essential! Ensure new features or major updates are re
 
 ### Need Help with Documentation?
 
-Check out [this section](./#-contributing) or ask in [community discussions](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions).
+Check out [this section](./#-contributing) or ask in [community discussions](https://github.com/rudrahacked-ux/Smart-AI-Resume-Analyzer/discussions).
 
 
 
@@ -106,4 +106,4 @@ Check out [this section](./#-contributing) or ask in [community discussions](htt
 
 Thank you for contributing to **Smart Resume Analyzer AI**! Your effort helps make resume analysis smarter and more efficient.
 
-[![Join the discussion](https://img.shields.io/badge/Join-Discussion-blue)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions)
+[![Join the discussion](https://img.shields.io/badge/Join-Discussion-blue)](https://github.com/rudrahacked-ux/Smart-AI-Resume-Analyzer/discussions)
